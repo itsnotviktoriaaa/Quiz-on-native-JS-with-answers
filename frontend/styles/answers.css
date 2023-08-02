@@ -1,0 +1,44 @@
+.answers {
+    padding: 20px 0;
+}
+
+.answers-result {
+    display: flex;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.answers-result-img {
+    margin: 6px 15px 0 15px;
+}
+
+.answers-result-choice {
+    color: #6933DC;
+}
+
+.answers-title {
+    margin-bottom: 10px;
+}
+
+.answers-question-options {
+    min-height: unset;
+}
+
+.test-item {
+    margin-bottom: 60px;
+}
+
+.answers .watch-answers {
+    margin-top: unset;
+}
+
+#user-data {
+    font-size: 20px;
+    color: #333333;
+    margin-bottom: 60px;
+}
+
+#user-data span {
+    font-weight: bold;
+    color: #6933DC;
+}
